@@ -1,0 +1,373 @@
+2017-05-18 10:40:04.751645Spring_Semester_2012_ITFN-2001-01,107539,Spring_Semester_2012_ITFN-2001-01
+Spring_Semester_2012_ITFN-2001-01,107540,23981.201202
+CSCI 1302 Tutorial Development Template,910124,CSCI_1302_Tutorial_Development_Template
+CSCI_1302_Tutorial_Development_CO,910125,CSCI_1302_Tutorial_Development_CO
+Prior Learning Assessment Template,919974,PriorLearningAssessment
+Prior Learning Assessment: CIMS CO,919975,Prior_Learning_Assessment_CIMS
+ITFN 1401 template,1236393,ITFN1401template
+ITFN 1401 Template CO,1236394,ITFN_1401_Template
+
+2017-05-18 10:44:12.726440Spring_Semester_2012_ITFN-2001-01,107540,23981.201202
+CSCI_1302_Tutorial_Development_CO,910125,CSCI_1302_Tutorial_Development_CO
+Prior Learning Assessment: CIMS CO,919975,Prior_Learning_Assessment_CIMS
+ITFN 1401 Template CO,1236394,ITFN_1401_Template
+
+2017-05-18 10:45:08.840051
+Spring_Semester_2012_ITFN-2001-01,107540,23981.201202
+CSCI_1302_Tutorial_Development_CO,910125,CSCI_1302_Tutorial_Development_CO
+Prior Learning Assessment: CIMS CO,919975,Prior_Learning_Assessment_CIMS
+ITFN 1401 Template CO,1236394,ITFN_1401_Template
+
+2017-05-18 11:01:37.939951
+Academy For Online Course Development,504833,ACAD101
+Feminist Theory XLS Group A2 Spring Semester 2015 CO,848737,CO.280.WST3500.XLS.A2.20154
+Intro to Women's Studies Section 1 Spring Semester 2015 CO,848740,CO.280.WST2010.20309.20154
+Intro to Women's Studies Section 90 Spring Semester 2015 CO,848742,CO.280.WST2010.20308.20154
+IT Policy and Law Section Y01 Spring Semester 2015 CO,848744,CO.280.WBIT4610.21131.20154
+IT Strategy Section Y01 Spring Semester 2015 CO,848746,CO.280.WBIT4602.21129.20154
+Systems Acquisition Section Y01 Spring Semester 2015 CO,848748,CO.280.WBIT4112.21128.20154
+Senior Project & Portfolio Section Y01 Spring Semester 2015 CO,848750,CO.280.WBIT4030.21124.20154
+Intro to E-Commerce Section Y01 Spring Semester 2015 CO,848752,CO.280.WBIT3600.21123.20154
+Data Comm and Networking Section Y01 Spring Semester 2015 CO,848754,CO.280.WBIT3510.21119.20154
+Introduction to Digital Media Section Y01 Spring Semester 2015 CO,848756,CO.280.WBIT3400.21118.20154
+DB Design, Dev-Deploymt. Section Y01 Spring Semester 2015 CO,848758,CO.280.WBIT3200.21116.20154
+IT Project Management Section Y01 Spring Semester 2015 CO,848760,CO.280.WBIT3111.21115.20154
+Prog. & Prob. Solving II Section Y01 Spring Semester 2015 CO,848762,CO.280.WBIT2311.21114.20154
+Discrete Math for IT Section Y01 Spring Semester 2015 CO,848764,CO.280.WBIT2300.21113.20154
+The Enterpise and IT Section Y01 Spring Semester 2015 CO,848766,CO.280.WBIT2000.21111.20154
+Program and Problem Solving I Section Y01 Spring Semester 2015 CO,848768,CO.280.WBIT1310.21003.20154
+Introduction to I.T. Section Y01 Spring Semester 2015 CO,848770,CO.280.WBIT1100.21126.20154
+African-American Theatre Section 01 Spring Semester 2015 CO,848772,CO.280.THEA4520.20448.20154
+Capstone Project Section 01 Spring Semester 2015 CO,848774,CO.280.THEA4500.20432.20154
+Advanced Play Development Section 01 Spring Semester 2015 CO,848776,CO.280.THEA3991.20426.20154
+Theatre Internship/Practicum Section 01 Spring Semester 2015 CO,848778,CO.280.THEA3901.20431.20154
+Intermediate Play Development Section 01 Spring Semester 2015 CO,848780,CO.280.THEA2990.20423.20154
+Directing Section 01 Spring Semester 2015 CO,848782,CO.280.THEA2900.20429.20154
+Play Development Section 01 Spring Semester 2015 CO,848784,CO.280.THEA1990.20421.20154
+Introduction to Acting Section 01 Spring Semester 2015 CO,848786,CO.280.THEA1880.20417.20154
+Introduction to Theatre Design Section 01 Spring Semester 2015 CO,848788,CO.280.THEA1700.20420.20154
+Introduction to Theatre Section 01 Spring Semester 2015 CO,848790,CO.280.THEA1100.20419.20154
+Seminar in Adm and Tech Mgmt XLS Group B3 Spring Semester 2015 CO,848792,CO.280.TECH4850.XLS.B3.20154
+Global Technology XLS Group B1 Spring Semester 2015 CO,848795,CO.280.TECH4115.XLS.B1.20154
+Global Technology Section 90 Spring Semester 2015 CO,848798,CO.280.TECH4115.20416.20154
+Leadership-Admin./Tech. Section 90 Spring Semester 2015 CO,848800,CO.280.TECH4111.20415.20154
+Human Resources for Admin/Tech XLS Group T9 Spring Semester 2015 CO,848802,CO.280.TECH4101.XLS.T9.20154
+Work & Society XLS Group B4 Spring Semester 2015 CO,848805,CO.280.TECH3713.XLS.B4.20154
+Technology Entrepreneurship XLS Group T8 Spring Semester 2015 CO,848808,CO.280.TECH3160.XLS.T8.20154
+Legal Issues-Admin./Tech. Man. Section 91 Spring Semester 2015 CO,848811,CO.280.TECH3115.20390.20154
+Legal Issues-Admin./Tech. Man. Section 90 Spring Semester 2015 CO,848813,CO.280.TECH3115.20386.20154
+Applied Accounting XLS Group T5 Spring Semester 2015 CO,848815,CO.280.TECH3112.XLS.T5.20154
+Applied Economics XLS Group T4 Spring Semester 2015 CO,848818,CO.280.TECH3111.XLS.T4.20154
+Applied Economics Section 90 Spring Semester 2015 CO,848821,CO.280.TECH3111.20370.20154
+Ethics for Adm and Tech Mgrs XLS Group T6 Spring Semester 2015 CO,848823,CO.280.TECH3104.XLS.T6.20154
+Ethics for Adm and Tech Mgrs XLS Group T2 Spring Semester 2015 CO,848826,CO.280.TECH3104.XLS.T2.20154
+Quality Issues in Tech. XLS Group T3 Spring Semester 2015 CO,848829,CO.280.TECH3102.XLS.T3.20154
+Supervision for the Workplace XLS Group T1 Spring Semester 2015 CO,848832,CO.280.TECH3101.XLS.T1.20154
+Supervision for the Workplace Section 90 Spring Semester 2015 CO,848835,CO.280.TECH3101.20355.20154
+
+2017-05-18 11:09:47.567909
+Academy For Online Course Development,504833,ACAD101
+Feminist Theory XLS Group A2 Spring Semester 2015 CO,848737,CO.280.WST3500.XLS.A2.20154
+Feminist Theory Section 05 Spring Semester 2015 SE,848738,SEC.280.SOCI4800.20312.20154
+Feminist Theory Section 1 Spring Semester 2015 SEC,848739,SEC.280.WST3500.20310.20154
+Intro to Women's Studies Section 1 Spring Semester 2015 CO,848740,CO.280.WST2010.20309.20154
+Intro to Women's Studies Section 1 Spring Semester,848741,SEC.280.WST2010.20309.20154
+Intro to Women's Studies Section 90 Spring Semester 2015 CO,848742,CO.280.WST2010.20308.20154
+Intro to Women's Studies Section 90 Spring Semeste,848743,SEC.280.WST2010.20308.20154
+IT Policy and Law Section Y01 Spring Semester 2015 CO,848744,CO.280.WBIT4610.21131.20154
+IT Policy and Law Section Y01 Spring Semester 2015,848745,SEC.280.WBIT4610.21131.20154
+IT Strategy Section Y01 Spring Semester 2015 CO,848746,CO.280.WBIT4602.21129.20154
+IT Strategy Section Y01 Spring Semester 2015 SEC,848747,SEC.280.WBIT4602.21129.20154
+Systems Acquisition Section Y01 Spring Semester 2015 CO,848748,CO.280.WBIT4112.21128.20154
+Systems Acquisition Section Y01 Spring Semester 20,848749,SEC.280.WBIT4112.21128.20154
+Senior Project & Portfolio Section Y01 Spring Semester 2015 CO,848750,CO.280.WBIT4030.21124.20154
+Senior Project & Portfolio Section Y01 Spring Seme,848751,SEC.280.WBIT4030.21124.20154
+Intro to E-Commerce Section Y01 Spring Semester 2015 CO,848752,CO.280.WBIT3600.21123.20154
+Intro to E-Commerce Section Y01 Spring Semester 20,848753,SEC.280.WBIT3600.21123.20154
+Data Comm and Networking Section Y01 Spring Semester 2015 CO,848754,CO.280.WBIT3510.21119.20154
+Data Comm and Networking Section Y01 Spring Semest,848755,SEC.280.WBIT3510.21119.20154
+Introduction to Digital Media Section Y01 Spring Semester 2015 CO,848756,CO.280.WBIT3400.21118.20154
+Introduction to Digital Media Section Y01 Spring S,848757,SEC.280.WBIT3400.21118.20154
+DB Design, Dev-Deploymt. Section Y01 Spring Semester 2015 CO,848758,CO.280.WBIT3200.21116.20154
+DB Design, Dev-Deploymt. Section Y01 Spring Semest,848759,SEC.280.WBIT3200.21116.20154
+IT Project Management Section Y01 Spring Semester 2015 CO,848760,CO.280.WBIT3111.21115.20154
+IT Project Management Section Y01 Spring Semester ,848761,SEC.280.WBIT3111.21115.20154
+Prog. & Prob. Solving II Section Y01 Spring Semester 2015 CO,848762,CO.280.WBIT2311.21114.20154
+Prog. & Prob. Solving II Section Y01 Spring Semest,848763,SEC.280.WBIT2311.21114.20154
+Discrete Math for IT Section Y01 Spring Semester 2015 CO,848764,CO.280.WBIT2300.21113.20154
+Discrete Math for IT Section Y01 Spring Semester 2,848765,SEC.280.WBIT2300.21113.20154
+The Enterpise and IT Section Y01 Spring Semester 2015 CO,848766,CO.280.WBIT2000.21111.20154
+The Enterpise and IT Section Y01 Spring Semester 2,848767,SEC.280.WBIT2000.21111.20154
+Program and Problem Solving I Section Y01 Spring Semester 2015 CO,848768,CO.280.WBIT1310.21003.20154
+Program and Problem Solving I Section Y01 Spring S,848769,SEC.280.WBIT1310.21003.20154
+Introduction to I.T. Section Y01 Spring Semester 2015 CO,848770,CO.280.WBIT1100.21126.20154
+Introduction to I.T. Section Y01 Spring Semester 2,848771,SEC.280.WBIT1100.21126.20154
+African-American Theatre Section 01 Spring Semester 2015 CO,848772,CO.280.THEA4520.20448.20154
+African-American Theatre Section 01 Spring Semeste,848773,SEC.280.THEA4520.20448.20154
+Capstone Project Section 01 Spring Semester 2015 CO,848774,CO.280.THEA4500.20432.20154
+Capstone Project Section 01 Spring Semester 2015 S,848775,SEC.280.THEA4500.20432.20154
+Advanced Play Development Section 01 Spring Semester 2015 CO,848776,CO.280.THEA3991.20426.20154
+Advanced Play Development Section 01 Spring Semest,848777,SEC.280.THEA3991.20426.20154
+Theatre Internship/Practicum Section 01 Spring Semester 2015 CO,848778,CO.280.THEA3901.20431.20154
+Theatre Internship/Practicum Section 01 Spring Sem,848779,SEC.280.THEA3901.20431.20154
+Intermediate Play Development Section 01 Spring Semester 2015 CO,848780,CO.280.THEA2990.20423.20154
+Intermediate Play Development Section 01 Spring Se,848781,SEC.280.THEA2990.20423.20154
+Directing Section 01 Spring Semester 2015 CO,848782,CO.280.THEA2900.20429.20154
+Directing Section 01 Spring Semester 2015 SEC,848783,SEC.280.THEA2900.20429.20154
+Play Development Section 01 Spring Semester 2015 CO,848784,CO.280.THEA1990.20421.20154
+Play Development Section 01 Spring Semester 2015 S,848785,SEC.280.THEA1990.20421.20154
+Introduction to Acting Section 01 Spring Semester 2015 CO,848786,CO.280.THEA1880.20417.20154
+Introduction to Acting Section 01 Spring Semester ,848787,SEC.280.THEA1880.20417.20154
+Introduction to Theatre Design Section 01 Spring Semester 2015 CO,848788,CO.280.THEA1700.20420.20154
+Introduction to Theatre Design Section 01 Spring S,848789,SEC.280.THEA1700.20420.20154
+Introduction to Theatre Section 01 Spring Semester 2015 CO,848790,CO.280.THEA1100.20419.20154
+Introduction to Theatre Section 01 Spring Semester,848791,SEC.280.THEA1100.20419.20154
+Seminar in Adm and Tech Mgmt XLS Group B3 Spring Semester 2015 CO,848792,CO.280.TECH4850.XLS.B3.20154
+Seminar in Adm and Tech Mgmt Section 91 Spring Sem,848793,SEC.280.TECH4850.20445.20154
+Seminar in Adm and Tech Mgmt Section 90 Spring Sem,848794,SEC.280.TECH4850.20444.20154
+Global Technology XLS Group B1 Spring Semester 2015 CO,848795,CO.280.TECH4115.XLS.B1.20154
+Global Technology Section 92 Spring Semester 2015 ,848796,SEC.280.TECH4115.20427.20154
+Global Technology Section 91 Spring Semester 2015 ,848797,SEC.280.TECH4115.20425.20154
+Global Technology Section 90 Spring Semester 2015 CO,848798,CO.280.TECH4115.20416.20154
+Global Technology Section 90 Spring Semester 2015 ,848799,SEC.280.TECH4115.20416.20154
+Leadership-Admin./Tech. Section 90 Spring Semester 2015 CO,848800,CO.280.TECH4111.20415.20154
+Leadership-Admin./Tech. Section 90 Spring Semester,848801,SEC.280.TECH4111.20415.20154
+Human Resources for Admin/Tech XLS Group T9 Spring Semester 2015 CO,848802,CO.280.TECH4101.XLS.T9.20154
+Human Resources for Admin/Tech Section 91 Spring S,848803,SEC.280.TECH4101.20414.20154
+Human Resources for Admin/Tech Section 90 Spring S,848804,SEC.280.TECH4101.20413.20154
+Work & Society XLS Group B4 Spring Semester 2015 CO,848805,CO.280.TECH3713.XLS.B4.20154
+Work & Society Section 90 Spring Semester 2015 SEC,848806,SEC.280.SOCI3713.21150.20154
+Work & Society Section 90 Spring Semester 2015 SEC,848807,SEC.280.TECH3713.21149.20154
+Technology Entrepreneurship XLS Group T8 Spring Semester 2015 CO,848808,CO.280.TECH3160.XLS.T8.20154
+Technology Entrepreneurship Section 91 Spring Seme,848809,SEC.280.TECH3160.20412.20154
+Technology Entrepreneurship Section 90 Spring Seme,848810,SEC.280.TECH3160.20411.20154
+Legal Issues-Admin./Tech. Man. Section 91 Spring Semester 2015 CO,848811,CO.280.TECH3115.20390.20154
+Legal Issues-Admin./Tech. Man. Section 91 Spring S,848812,SEC.280.TECH3115.20390.20154
+Legal Issues-Admin./Tech. Man. Section 90 Spring Semester 2015 CO,848813,CO.280.TECH3115.20386.20154
+Legal Issues-Admin./Tech. Man. Section 90 Spring S,848814,SEC.280.TECH3115.20386.20154
+Applied Accounting XLS Group T5 Spring Semester 2015 CO,848815,CO.280.TECH3112.XLS.T5.20154
+Applied Accounting Section 91 Spring Semester 2015,848816,SEC.280.TECH3112.20380.20154
+Applied Accounting Section 90 Spring Semester 2015,848817,SEC.280.TECH3112.20378.20154
+Applied Economics XLS Group T4 Spring Semester 2015 CO,848818,CO.280.TECH3111.XLS.T4.20154
+Applied Economics Section 92 Spring Semester 2015 ,848819,SEC.280.TECH3111.20375.20154
+Applied Economics Section 91 Spring Semester 2015 ,848820,SEC.280.TECH3111.20373.20154
+Applied Economics Section 90 Spring Semester 2015 CO,848821,CO.280.TECH3111.20370.20154
+Applied Economics Section 90 Spring Semester 2015 ,848822,SEC.280.TECH3111.20370.20154
+Ethics for Adm and Tech Mgrs XLS Group T6 Spring Semester 2015 CO,848823,CO.280.TECH3104.XLS.T6.20154
+Ethics for Adm and Tech Mgrs Section 61 Spring Sem,848824,SEC.280.TECH3104.20406.20154
+Ethics for Adm and Tech Mgrs Section 60 Spring Sem,848825,SEC.280.TECH3104.20405.20154
+Ethics for Adm and Tech Mgrs XLS Group T2 Spring Semester 2015 CO,848826,CO.280.TECH3104.XLS.T2.20154
+Ethics for Adm and Tech Mgrs Section 91 Spring Sem,848827,SEC.280.TECH3104.20365.20154
+Ethics for Adm and Tech Mgrs Section 90 Spring Sem,848828,SEC.280.TECH3104.20364.20154
+Quality Issues in Tech. XLS Group T3 Spring Semester 2015 CO,848829,CO.280.TECH3102.XLS.T3.20154
+Quality Issues in Tech. Section 91 Spring Semester,848830,SEC.280.TECH3102.20369.20154
+Quality Issues in Tech. Section 90 Spring Semester,848831,SEC.280.TECH3102.20367.20154
+Supervision for the Workplace XLS Group T1 Spring Semester 2015 CO,848832,CO.280.TECH3101.XLS.T1.20154
+Supervision for the Workplace Section 41 Spring Se,848833,SEC.280.TECH3101.20363.20154
+Supervision for the Workplace Section 40 Spring Se,848834,SEC.280.TECH3101.20362.20154
+Supervision for the Workplace Section 90 Spring Semester 2015 CO,848835,CO.280.TECH3101.20355.20154
+
+2017-05-18 12:57:33.203408
+Academy For Online Course Development, 504833, ACAD101
+Feminist Theory XLS Group A2 Spring Semester 2015 CO, 848737, CO.280.WST3500.XLS.A2.20154
+Feminist Theory Section 05 Spring Semester 2015 SE, 848738, SEC.280.SOCI4800.20312.20154
+Feminist Theory Section 1 Spring Semester 2015 SEC, 848739, SEC.280.WST3500.20310.20154
+Intro to Women's Studies Section 1 Spring Semester 2015 CO, 848740, CO.280.WST2010.20309.20154
+Intro to Women's Studies Section 1 Spring Semester, 848741, SEC.280.WST2010.20309.20154
+Intro to Women's Studies Section 90 Spring Semester 2015 CO, 848742, CO.280.WST2010.20308.20154
+Intro to Women's Studies Section 90 Spring Semeste, 848743, SEC.280.WST2010.20308.20154
+IT Policy and Law Section Y01 Spring Semester 2015 CO, 848744, CO.280.WBIT4610.21131.20154
+IT Policy and Law Section Y01 Spring Semester 2015, 848745, SEC.280.WBIT4610.21131.20154
+IT Strategy Section Y01 Spring Semester 2015 CO, 848746, CO.280.WBIT4602.21129.20154
+IT Strategy Section Y01 Spring Semester 2015 SEC, 848747, SEC.280.WBIT4602.21129.20154
+Systems Acquisition Section Y01 Spring Semester 2015 CO, 848748, CO.280.WBIT4112.21128.20154
+Systems Acquisition Section Y01 Spring Semester 20, 848749, SEC.280.WBIT4112.21128.20154
+Senior Project & Portfolio Section Y01 Spring Semester 2015 CO, 848750, CO.280.WBIT4030.21124.20154
+Senior Project & Portfolio Section Y01 Spring Seme, 848751, SEC.280.WBIT4030.21124.20154
+Intro to E-Commerce Section Y01 Spring Semester 2015 CO, 848752, CO.280.WBIT3600.21123.20154
+Intro to E-Commerce Section Y01 Spring Semester 20, 848753, SEC.280.WBIT3600.21123.20154
+Data Comm and Networking Section Y01 Spring Semester 2015 CO, 848754, CO.280.WBIT3510.21119.20154
+Data Comm and Networking Section Y01 Spring Semest, 848755, SEC.280.WBIT3510.21119.20154
+Introduction to Digital Media Section Y01 Spring Semester 2015 CO, 848756, CO.280.WBIT3400.21118.20154
+Introduction to Digital Media Section Y01 Spring S, 848757, SEC.280.WBIT3400.21118.20154
+DB Design, Dev-Deploymt. Section Y01 Spring Semester 2015 CO, 848758, CO.280.WBIT3200.21116.20154
+DB Design, Dev-Deploymt. Section Y01 Spring Semest, 848759, SEC.280.WBIT3200.21116.20154
+IT Project Management Section Y01 Spring Semester 2015 CO, 848760, CO.280.WBIT3111.21115.20154
+IT Project Management Section Y01 Spring Semester , 848761, SEC.280.WBIT3111.21115.20154
+Prog. & Prob. Solving II Section Y01 Spring Semester 2015 CO, 848762, CO.280.WBIT2311.21114.20154
+Prog. & Prob. Solving II Section Y01 Spring Semest, 848763, SEC.280.WBIT2311.21114.20154
+Discrete Math for IT Section Y01 Spring Semester 2015 CO, 848764, CO.280.WBIT2300.21113.20154
+Discrete Math for IT Section Y01 Spring Semester 2, 848765, SEC.280.WBIT2300.21113.20154
+The Enterpise and IT Section Y01 Spring Semester 2015 CO, 848766, CO.280.WBIT2000.21111.20154
+The Enterpise and IT Section Y01 Spring Semester 2, 848767, SEC.280.WBIT2000.21111.20154
+Program and Problem Solving I Section Y01 Spring Semester 2015 CO, 848768, CO.280.WBIT1310.21003.20154
+Program and Problem Solving I Section Y01 Spring S, 848769, SEC.280.WBIT1310.21003.20154
+Introduction to I.T. Section Y01 Spring Semester 2015 CO, 848770, CO.280.WBIT1100.21126.20154
+Introduction to I.T. Section Y01 Spring Semester 2, 848771, SEC.280.WBIT1100.21126.20154
+African-American Theatre Section 01 Spring Semester 2015 CO, 848772, CO.280.THEA4520.20448.20154
+African-American Theatre Section 01 Spring Semeste, 848773, SEC.280.THEA4520.20448.20154
+Capstone Project Section 01 Spring Semester 2015 CO, 848774, CO.280.THEA4500.20432.20154
+Capstone Project Section 01 Spring Semester 2015 S, 848775, SEC.280.THEA4500.20432.20154
+Advanced Play Development Section 01 Spring Semester 2015 CO, 848776, CO.280.THEA3991.20426.20154
+Advanced Play Development Section 01 Spring Semest, 848777, SEC.280.THEA3991.20426.20154
+Theatre Internship/Practicum Section 01 Spring Semester 2015 CO, 848778, CO.280.THEA3901.20431.20154
+Theatre Internship/Practicum Section 01 Spring Sem, 848779, SEC.280.THEA3901.20431.20154
+Intermediate Play Development Section 01 Spring Semester 2015 CO, 848780, CO.280.THEA2990.20423.20154
+Intermediate Play Development Section 01 Spring Se, 848781, SEC.280.THEA2990.20423.20154
+Directing Section 01 Spring Semester 2015 CO, 848782, CO.280.THEA2900.20429.20154
+Directing Section 01 Spring Semester 2015 SEC, 848783, SEC.280.THEA2900.20429.20154
+Play Development Section 01 Spring Semester 2015 CO, 848784, CO.280.THEA1990.20421.20154
+Play Development Section 01 Spring Semester 2015 S, 848785, SEC.280.THEA1990.20421.20154
+Introduction to Acting Section 01 Spring Semester 2015 CO, 848786, CO.280.THEA1880.20417.20154
+Introduction to Acting Section 01 Spring Semester , 848787, SEC.280.THEA1880.20417.20154
+Introduction to Theatre Design Section 01 Spring Semester 2015 CO, 848788, CO.280.THEA1700.20420.20154
+Introduction to Theatre Design Section 01 Spring S, 848789, SEC.280.THEA1700.20420.20154
+Introduction to Theatre Section 01 Spring Semester 2015 CO, 848790, CO.280.THEA1100.20419.20154
+Introduction to Theatre Section 01 Spring Semester, 848791, SEC.280.THEA1100.20419.20154
+Seminar in Adm and Tech Mgmt XLS Group B3 Spring Semester 2015 CO, 848792, CO.280.TECH4850.XLS.B3.20154
+Seminar in Adm and Tech Mgmt Section 91 Spring Sem, 848793, SEC.280.TECH4850.20445.20154
+Seminar in Adm and Tech Mgmt Section 90 Spring Sem, 848794, SEC.280.TECH4850.20444.20154
+Global Technology XLS Group B1 Spring Semester 2015 CO, 848795, CO.280.TECH4115.XLS.B1.20154
+Global Technology Section 92 Spring Semester 2015 , 848796, SEC.280.TECH4115.20427.20154
+Global Technology Section 91 Spring Semester 2015 , 848797, SEC.280.TECH4115.20425.20154
+Global Technology Section 90 Spring Semester 2015 CO, 848798, CO.280.TECH4115.20416.20154
+Global Technology Section 90 Spring Semester 2015 , 848799, SEC.280.TECH4115.20416.20154
+Leadership-Admin./Tech. Section 90 Spring Semester 2015 CO, 848800, CO.280.TECH4111.20415.20154
+Leadership-Admin./Tech. Section 90 Spring Semester, 848801, SEC.280.TECH4111.20415.20154
+Human Resources for Admin/Tech XLS Group T9 Spring Semester 2015 CO, 848802, CO.280.TECH4101.XLS.T9.20154
+Human Resources for Admin/Tech Section 91 Spring S, 848803, SEC.280.TECH4101.20414.20154
+Human Resources for Admin/Tech Section 90 Spring S, 848804, SEC.280.TECH4101.20413.20154
+Work & Society XLS Group B4 Spring Semester 2015 CO, 848805, CO.280.TECH3713.XLS.B4.20154
+Work & Society Section 90 Spring Semester 2015 SEC, 848806, SEC.280.SOCI3713.21150.20154
+Work & Society Section 90 Spring Semester 2015 SEC, 848807, SEC.280.TECH3713.21149.20154
+Technology Entrepreneurship XLS Group T8 Spring Semester 2015 CO, 848808, CO.280.TECH3160.XLS.T8.20154
+Technology Entrepreneurship Section 91 Spring Seme, 848809, SEC.280.TECH3160.20412.20154
+Technology Entrepreneurship Section 90 Spring Seme, 848810, SEC.280.TECH3160.20411.20154
+Legal Issues-Admin./Tech. Man. Section 91 Spring Semester 2015 CO, 848811, CO.280.TECH3115.20390.20154
+Legal Issues-Admin./Tech. Man. Section 91 Spring S, 848812, SEC.280.TECH3115.20390.20154
+Legal Issues-Admin./Tech. Man. Section 90 Spring Semester 2015 CO, 848813, CO.280.TECH3115.20386.20154
+Legal Issues-Admin./Tech. Man. Section 90 Spring S, 848814, SEC.280.TECH3115.20386.20154
+Applied Accounting XLS Group T5 Spring Semester 2015 CO, 848815, CO.280.TECH3112.XLS.T5.20154
+Applied Accounting Section 91 Spring Semester 2015, 848816, SEC.280.TECH3112.20380.20154
+Applied Accounting Section 90 Spring Semester 2015, 848817, SEC.280.TECH3112.20378.20154
+Applied Economics XLS Group T4 Spring Semester 2015 CO, 848818, CO.280.TECH3111.XLS.T4.20154
+Applied Economics Section 92 Spring Semester 2015 , 848819, SEC.280.TECH3111.20375.20154
+Applied Economics Section 91 Spring Semester 2015 , 848820, SEC.280.TECH3111.20373.20154
+Applied Economics Section 90 Spring Semester 2015 CO, 848821, CO.280.TECH3111.20370.20154
+Applied Economics Section 90 Spring Semester 2015 , 848822, SEC.280.TECH3111.20370.20154
+Ethics for Adm and Tech Mgrs XLS Group T6 Spring Semester 2015 CO, 848823, CO.280.TECH3104.XLS.T6.20154
+Ethics for Adm and Tech Mgrs Section 61 Spring Sem, 848824, SEC.280.TECH3104.20406.20154
+Ethics for Adm and Tech Mgrs Section 60 Spring Sem, 848825, SEC.280.TECH3104.20405.20154
+Ethics for Adm and Tech Mgrs XLS Group T2 Spring Semester 2015 CO, 848826, CO.280.TECH3104.XLS.T2.20154
+Ethics for Adm and Tech Mgrs Section 91 Spring Sem, 848827, SEC.280.TECH3104.20365.20154
+Ethics for Adm and Tech Mgrs Section 90 Spring Sem, 848828, SEC.280.TECH3104.20364.20154
+Quality Issues in Tech. XLS Group T3 Spring Semester 2015 CO, 848829, CO.280.TECH3102.XLS.T3.20154
+Quality Issues in Tech. Section 91 Spring Semester, 848830, SEC.280.TECH3102.20369.20154
+Quality Issues in Tech. Section 90 Spring Semester, 848831, SEC.280.TECH3102.20367.20154
+Supervision for the Workplace XLS Group T1 Spring Semester 2015 CO, 848832, CO.280.TECH3101.XLS.T1.20154
+Supervision for the Workplace Section 41 Spring Se, 848833, SEC.280.TECH3101.20363.20154
+Supervision for the Workplace Section 40 Spring Se, 848834, SEC.280.TECH3101.20362.20154
+Supervision for the Workplace Section 90 Spring Semester 2015 CO, 848835, CO.280.TECH3101.20355.20154
+
+2017-06-06 16:11:02.746951
+Academy For Online Course Development, 504833, ACAD101
+Feminist Theory XLS Group A2 Spring Semester 2015 CO, 848737, CO.280.WST3500.XLS.A2.20154
+Feminist Theory Section 05 Spring Semester 2015 SE, 848738, SEC.280.SOCI4800.20312.20154
+Feminist Theory Section 1 Spring Semester 2015 SEC, 848739, SEC.280.WST3500.20310.20154
+Intro to Women's Studies Section 1 Spring Semester 2015 CO, 848740, CO.280.WST2010.20309.20154
+Intro to Women's Studies Section 1 Spring Semester, 848741, SEC.280.WST2010.20309.20154
+Intro to Women's Studies Section 90 Spring Semester 2015 CO, 848742, CO.280.WST2010.20308.20154
+Intro to Women's Studies Section 90 Spring Semeste, 848743, SEC.280.WST2010.20308.20154
+IT Policy and Law Section Y01 Spring Semester 2015 CO, 848744, CO.280.WBIT4610.21131.20154
+IT Policy and Law Section Y01 Spring Semester 2015, 848745, SEC.280.WBIT4610.21131.20154
+IT Strategy Section Y01 Spring Semester 2015 CO, 848746, CO.280.WBIT4602.21129.20154
+IT Strategy Section Y01 Spring Semester 2015 SEC, 848747, SEC.280.WBIT4602.21129.20154
+Systems Acquisition Section Y01 Spring Semester 2015 CO, 848748, CO.280.WBIT4112.21128.20154
+Systems Acquisition Section Y01 Spring Semester 20, 848749, SEC.280.WBIT4112.21128.20154
+Senior Project & Portfolio Section Y01 Spring Semester 2015 CO, 848750, CO.280.WBIT4030.21124.20154
+Senior Project & Portfolio Section Y01 Spring Seme, 848751, SEC.280.WBIT4030.21124.20154
+Intro to E-Commerce Section Y01 Spring Semester 2015 CO, 848752, CO.280.WBIT3600.21123.20154
+Intro to E-Commerce Section Y01 Spring Semester 20, 848753, SEC.280.WBIT3600.21123.20154
+Data Comm and Networking Section Y01 Spring Semester 2015 CO, 848754, CO.280.WBIT3510.21119.20154
+Data Comm and Networking Section Y01 Spring Semest, 848755, SEC.280.WBIT3510.21119.20154
+Introduction to Digital Media Section Y01 Spring Semester 2015 CO, 848756, CO.280.WBIT3400.21118.20154
+Introduction to Digital Media Section Y01 Spring S, 848757, SEC.280.WBIT3400.21118.20154
+DB Design, Dev-Deploymt. Section Y01 Spring Semester 2015 CO, 848758, CO.280.WBIT3200.21116.20154
+DB Design, Dev-Deploymt. Section Y01 Spring Semest, 848759, SEC.280.WBIT3200.21116.20154
+IT Project Management Section Y01 Spring Semester 2015 CO, 848760, CO.280.WBIT3111.21115.20154
+IT Project Management Section Y01 Spring Semester , 848761, SEC.280.WBIT3111.21115.20154
+Prog. & Prob. Solving II Section Y01 Spring Semester 2015 CO, 848762, CO.280.WBIT2311.21114.20154
+Prog. & Prob. Solving II Section Y01 Spring Semest, 848763, SEC.280.WBIT2311.21114.20154
+Discrete Math for IT Section Y01 Spring Semester 2015 CO, 848764, CO.280.WBIT2300.21113.20154
+Discrete Math for IT Section Y01 Spring Semester 2, 848765, SEC.280.WBIT2300.21113.20154
+The Enterpise and IT Section Y01 Spring Semester 2015 CO, 848766, CO.280.WBIT2000.21111.20154
+The Enterpise and IT Section Y01 Spring Semester 2, 848767, SEC.280.WBIT2000.21111.20154
+Program and Problem Solving I Section Y01 Spring Semester 2015 CO, 848768, CO.280.WBIT1310.21003.20154
+Program and Problem Solving I Section Y01 Spring S, 848769, SEC.280.WBIT1310.21003.20154
+Introduction to I.T. Section Y01 Spring Semester 2015 CO, 848770, CO.280.WBIT1100.21126.20154
+Introduction to I.T. Section Y01 Spring Semester 2, 848771, SEC.280.WBIT1100.21126.20154
+African-American Theatre Section 01 Spring Semester 2015 CO, 848772, CO.280.THEA4520.20448.20154
+African-American Theatre Section 01 Spring Semeste, 848773, SEC.280.THEA4520.20448.20154
+Capstone Project Section 01 Spring Semester 2015 CO, 848774, CO.280.THEA4500.20432.20154
+Capstone Project Section 01 Spring Semester 2015 S, 848775, SEC.280.THEA4500.20432.20154
+Advanced Play Development Section 01 Spring Semester 2015 CO, 848776, CO.280.THEA3991.20426.20154
+Advanced Play Development Section 01 Spring Semest, 848777, SEC.280.THEA3991.20426.20154
+Theatre Internship/Practicum Section 01 Spring Semester 2015 CO, 848778, CO.280.THEA3901.20431.20154
+Theatre Internship/Practicum Section 01 Spring Sem, 848779, SEC.280.THEA3901.20431.20154
+Intermediate Play Development Section 01 Spring Semester 2015 CO, 848780, CO.280.THEA2990.20423.20154
+Intermediate Play Development Section 01 Spring Se, 848781, SEC.280.THEA2990.20423.20154
+Directing Section 01 Spring Semester 2015 CO, 848782, CO.280.THEA2900.20429.20154
+Directing Section 01 Spring Semester 2015 SEC, 848783, SEC.280.THEA2900.20429.20154
+Play Development Section 01 Spring Semester 2015 CO, 848784, CO.280.THEA1990.20421.20154
+Play Development Section 01 Spring Semester 2015 S, 848785, SEC.280.THEA1990.20421.20154
+Introduction to Acting Section 01 Spring Semester 2015 CO, 848786, CO.280.THEA1880.20417.20154
+Introduction to Acting Section 01 Spring Semester , 848787, SEC.280.THEA1880.20417.20154
+Introduction to Theatre Design Section 01 Spring Semester 2015 CO, 848788, CO.280.THEA1700.20420.20154
+Introduction to Theatre Design Section 01 Spring S, 848789, SEC.280.THEA1700.20420.20154
+Introduction to Theatre Section 01 Spring Semester 2015 CO, 848790, CO.280.THEA1100.20419.20154
+Introduction to Theatre Section 01 Spring Semester, 848791, SEC.280.THEA1100.20419.20154
+Seminar in Adm and Tech Mgmt XLS Group B3 Spring Semester 2015 CO, 848792, CO.280.TECH4850.XLS.B3.20154
+Seminar in Adm and Tech Mgmt Section 91 Spring Sem, 848793, SEC.280.TECH4850.20445.20154
+Seminar in Adm and Tech Mgmt Section 90 Spring Sem, 848794, SEC.280.TECH4850.20444.20154
+Global Technology XLS Group B1 Spring Semester 2015 CO, 848795, CO.280.TECH4115.XLS.B1.20154
+Global Technology Section 92 Spring Semester 2015 , 848796, SEC.280.TECH4115.20427.20154
+Global Technology Section 91 Spring Semester 2015 , 848797, SEC.280.TECH4115.20425.20154
+Global Technology Section 90 Spring Semester 2015 CO, 848798, CO.280.TECH4115.20416.20154
+Global Technology Section 90 Spring Semester 2015 , 848799, SEC.280.TECH4115.20416.20154
+Leadership-Admin./Tech. Section 90 Spring Semester 2015 CO, 848800, CO.280.TECH4111.20415.20154
+Leadership-Admin./Tech. Section 90 Spring Semester, 848801, SEC.280.TECH4111.20415.20154
+Human Resources for Admin/Tech XLS Group T9 Spring Semester 2015 CO, 848802, CO.280.TECH4101.XLS.T9.20154
+Human Resources for Admin/Tech Section 91 Spring S, 848803, SEC.280.TECH4101.20414.20154
+Human Resources for Admin/Tech Section 90 Spring S, 848804, SEC.280.TECH4101.20413.20154
+Work & Society XLS Group B4 Spring Semester 2015 CO, 848805, CO.280.TECH3713.XLS.B4.20154
+Work & Society Section 90 Spring Semester 2015 SEC, 848806, SEC.280.SOCI3713.21150.20154
+Work & Society Section 90 Spring Semester 2015 SEC, 848807, SEC.280.TECH3713.21149.20154
+Technology Entrepreneurship XLS Group T8 Spring Semester 2015 CO, 848808, CO.280.TECH3160.XLS.T8.20154
+Technology Entrepreneurship Section 91 Spring Seme, 848809, SEC.280.TECH3160.20412.20154
+Technology Entrepreneurship Section 90 Spring Seme, 848810, SEC.280.TECH3160.20411.20154
+Legal Issues-Admin./Tech. Man. Section 91 Spring Semester 2015 CO, 848811, CO.280.TECH3115.20390.20154
+Legal Issues-Admin./Tech. Man. Section 91 Spring S, 848812, SEC.280.TECH3115.20390.20154
+Legal Issues-Admin./Tech. Man. Section 90 Spring Semester 2015 CO, 848813, CO.280.TECH3115.20386.20154
+Legal Issues-Admin./Tech. Man. Section 90 Spring S, 848814, SEC.280.TECH3115.20386.20154
+Applied Accounting XLS Group T5 Spring Semester 2015 CO, 848815, CO.280.TECH3112.XLS.T5.20154
+Applied Accounting Section 91 Spring Semester 2015, 848816, SEC.280.TECH3112.20380.20154
+Applied Accounting Section 90 Spring Semester 2015, 848817, SEC.280.TECH3112.20378.20154
+Applied Economics XLS Group T4 Spring Semester 2015 CO, 848818, CO.280.TECH3111.XLS.T4.20154
+Applied Economics Section 92 Spring Semester 2015 , 848819, SEC.280.TECH3111.20375.20154
+Applied Economics Section 91 Spring Semester 2015 , 848820, SEC.280.TECH3111.20373.20154
+Applied Economics Section 90 Spring Semester 2015 CO, 848821, CO.280.TECH3111.20370.20154
+Applied Economics Section 90 Spring Semester 2015 , 848822, SEC.280.TECH3111.20370.20154
+Ethics for Adm and Tech Mgrs XLS Group T6 Spring Semester 2015 CO, 848823, CO.280.TECH3104.XLS.T6.20154
+Ethics for Adm and Tech Mgrs Section 61 Spring Sem, 848824, SEC.280.TECH3104.20406.20154
+Ethics for Adm and Tech Mgrs Section 60 Spring Sem, 848825, SEC.280.TECH3104.20405.20154
+Ethics for Adm and Tech Mgrs XLS Group T2 Spring Semester 2015 CO, 848826, CO.280.TECH3104.XLS.T2.20154
+Ethics for Adm and Tech Mgrs Section 91 Spring Sem, 848827, SEC.280.TECH3104.20365.20154
+Ethics for Adm and Tech Mgrs Section 90 Spring Sem, 848828, SEC.280.TECH3104.20364.20154
+Quality Issues in Tech. XLS Group T3 Spring Semester 2015 CO, 848829, CO.280.TECH3102.XLS.T3.20154
+Quality Issues in Tech. Section 91 Spring Semester, 848830, SEC.280.TECH3102.20369.20154
+Quality Issues in Tech. Section 90 Spring Semester, 848831, SEC.280.TECH3102.20367.20154
+Supervision for the Workplace XLS Group T1 Spring Semester 2015 CO, 848832, CO.280.TECH3101.XLS.T1.20154
+Supervision for the Workplace Section 41 Spring Se, 848833, SEC.280.TECH3101.20363.20154
+Supervision for the Workplace Section 40 Spring Se, 848834, SEC.280.TECH3101.20362.20154
+Supervision for the Workplace Section 90 Spring Semester 2015 CO, 848835, CO.280.TECH3101.20355.20154
+
